@@ -1,0 +1,42 @@
+SNAPS Financial Services
+================
+An online Banking System using PHP, MySQL, HTML5, CSS and JavaScript. No backend framework has been used. This was made to demonstrate web-designing and database-programming skills. It was done as a part of Database Systems Final Project.
+
+Features
+--------
+
+* All forms validated on Client Side using JS and on Server Side using PHP
+* Application includes customer addition,fund transfer,customer loan and card management and complaints.
+* Nice Looking WebPages
+
+Running the Project
+-------------------
+
+* Install WAMP
+* Configure the port number in config.php file
+* Optionally import sample data into database via phpmyadmin using the bank.sql file
+* Run WAMP and open the web page using browser - localhost/phpmyadmin
+
+Development
+-----------
+
+* We used 
+	PHP
+	HTML Validations
+	Java Script
+	WAMP Server 
+	MySQL database. 
+
+Disclaimer
+----------
+
+* This is not a real bank management system which can be deployed. We did this project to deeply learn database systems and web developement.
+* Images, Fonts and other resources used in this project has been randomly taken from somewhere on the internet. We hardly care.
+
+
+Project Contributors
+--------------------
+
+1. Naveen Kumar Vadlakonda 
+2. Pragna Reddy Kancharla
+3. Chaitanya Sai Kumar Talluru
